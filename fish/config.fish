@@ -3,3 +3,4 @@ if status is-interactive
 end
 echo 
 fastfetch
+fish_add_path ~/.local/bin
